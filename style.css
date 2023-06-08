@@ -7,8 +7,8 @@ body{
     text-align: center;
     margin-top: 3px;
     margin-bottom: 0px; 
-    margin-left: 130px;
-    margin-right: 130px;
+    margin: auto;
+    width: 72%;
     background: url(bbburst.svg);
     background-color: rgba(18, 18, 18, 0.95);
     background-position: center;
